@@ -638,7 +638,7 @@ aws dynamodb update-billing-mode \
 
 ## 👥 Contributeurs
 
-- **Mainteneur** : phf-dev221
+- **Mainteneur** : Ansata Diamanka - Pape Hamady FALL
 - **Projet** : P-01 ISI - Pipeline de Données Météo
 - **Année** : 2026
 
